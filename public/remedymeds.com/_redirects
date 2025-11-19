@@ -1,1 +1,5 @@
+/_next/* https://remedymeds.com/_next/:splat 200
+/remedymeds/* https://remedymeds.com/remedymeds/:splat 200
+/images/* https://remedymeds.com/images/:splat 200
+/scripts/* https://remedymeds.com/scripts/:splat 200
 /_next/image https://remedymeds.com/_next/image 200
