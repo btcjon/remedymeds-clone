@@ -1,0 +1,2 @@
+- clone this page pixel perfect and exact, including animations etc. https://remedymeds.com/
+- section screenshots here in folder /sections
